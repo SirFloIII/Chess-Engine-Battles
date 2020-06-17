@@ -1,0 +1,5 @@
+/__pycache__
+/engines/angry_monkey/__pycache__/*.pyc
+/engines/milli/__pycache__/*.pyc
+/engines/monkey/__pycache__/*.pyc
+/engines/smart_monkey/__pycache__/*.pyc
